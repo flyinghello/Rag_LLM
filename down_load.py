@@ -1,0 +1,2 @@
+from modelscope import snapshot_download
+model_dir = snapshot_download('zpeng1989/COT_Medical_Qwen_Large_Language_Model')
